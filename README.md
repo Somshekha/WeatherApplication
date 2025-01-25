@@ -11,6 +11,7 @@ This is a dynamic web application that fetches and displays real-time weather in
 The app is built with Java Servlets, JSP, and a responsive front-end using HTML, CSS, and JavaScript.
 
 Features
+
 1.Search Weather by City: Enter the name of any city to get the latest weather details.
 
 2.Real-Time Data: Fetches live weather data including temperature, humidity, wind speed, and overall conditions.

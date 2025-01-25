@@ -1,5 +1,11 @@
 Weather Web App 🌤️
 
+![Image](https://github.com/user-attachments/assets/c1381c61-a2c0-4ca9-bd53-3fbc924ed2c1)
+
+
+
+
+
 
 This is a dynamic web application that fetches and displays real-time weather information for any city using the OpenWeather API. 
 The app is built with Java Servlets, JSP, and a responsive front-end using HTML, CSS, and JavaScript.
